@@ -7,12 +7,6 @@
 - 💬 Ask me about: **C++, JavaScript, HTML/CSS, Git**
 - 📫 How to reach me: **rahulrao1849@gmail.com**
 
----
-
-### 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
