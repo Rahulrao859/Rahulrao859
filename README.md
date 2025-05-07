@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrao859&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrao859" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrao859" alt="rahulrao859" /></a> </p>
-
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **node.js , express.js**
@@ -21,9 +17,3 @@
 <a href="https://www.leetcode.com/rahulrao_1418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulrao_1418" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rahulra3oc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulra3oc0" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrao859&show_icons=true&locale=en&layout=compact" alt="rahulrao859" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulrao859&show_icons=true&locale=en" alt="rahulrao859" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrao859&" alt="rahulrao859" /></p>
