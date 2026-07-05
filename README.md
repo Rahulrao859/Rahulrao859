@@ -1,20 +1,19 @@
-<h1 align="center">Hi, I'm Rahul Yadav 👋</h1>
+<h1 align="center">Hi, I'm Rahul Yadav </h1>
 <h3 align="center">Software Developer | Full-Stack & Backend Engineer | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rahulrao1849@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/Rahulrao"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.codingninjas.com/studio/profile/Rahulrao"><img src="https://img.shields.io/badge/CodingNinjas-F9A826?style=for-the-badge&logo=codingninja&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Software Quality Engineer at **Webkul Software Pvt. Ltd.**, working on REST API validation, backend log analysis, and system reliability. Alongside QE work, I build full-stack products end-to-end — from database design to deployment — with a strong grounding in Data Structures & Algorithms (300+ problems solved).
+I'm a Software Developer who builds full-stack products end-to-end — from database design to deployment — with a strong grounding in Data Structures & Algorithms (300+ problems solved).
 
-- 🔭 Currently working on **SmartMeet** — an AI-powered meeting scheduler
 - 🌱 Deepening my knowledge of **System Design** and scalable backend architecture
 - 💬 Ask me about **React.js, Node.js/Express.js, MongoDB, REST APIs, or DSA**
 - 🎯 Actively seeking **SDE / Full-Stack Developer** roles
@@ -60,18 +59,6 @@ I'm a Software Quality Engineer at **Webkul Software Pvt. Ltd.**, working on RES
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 </p>
-
----
-
-### 💼 Experience
-
-**Software Quality Engineer** @ Webkul Software Pvt. Ltd. — *Feb 2026 – Present*
-- Testing and validating REST APIs by analyzing request/response payloads and verifying data flow across frontend, backend, and database layers
-- Tracing backend logic and logs to reproduce issues and improve system reliability
-
-**Full Stack Developer Intern** @ ShriKartavya International Pvt. Ltd. — *Dec 2025 – Feb 2026*
-- Designed the database and built full-stack features using modern frontend frameworks and backend APIs
-- Built and integrated RESTful APIs for efficient frontend–backend communication
 
 ---
 
