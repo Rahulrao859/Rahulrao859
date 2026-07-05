@@ -2,22 +2,23 @@
 <h3 align="center">Software Developer | Full-Stack & Backend Engineer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rahul-yadav-613664254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rahulrao1849@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/Rahulrao"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Rahulrao_1418/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://codeforces.com/profile/rahulrao1849"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Software Developer who builds full-stack products end-to-end — from database design to deployment — with a strong grounding in Data Structures & Algorithms (300+ problems solved).
+I'm a Software Developer focused on **backend and full-stack engineering** — building systems that are reliable, scalable, and clean under the hood. My work spans designing REST APIs, structuring databases, and building complete product features from the database layer up through the UI.
 
-- 🌱 Deepening my knowledge of **System Design** and scalable backend architecture
-- 💬 Ask me about **React.js, Node.js/Express.js, MongoDB, REST APIs, or DSA**
-- 🎯 Actively seeking **SDE / Full-Stack Developer** roles
-- ⚡ Fun fact: I enjoy breaking down complex problems into the simplest possible solution
+I enjoy the backend the most: request/response design, authentication flows, data modeling, and making systems perform well as they grow. On the frontend side, I build with React.js to ship features end-to-end rather than just handing off a spec.
+
+I'm currently sharpening my understanding of **System Design** — load balancing, caching, database scaling, and distributed systems — because I want to build software that holds up under real-world traffic, not just in a demo.
+
+I'm looking for **SDE / Backend / Full-Stack Developer** roles where I can take ownership of features from design to deployment, work closely with a team, and keep leveling up as an engineer.
 
 ---
 
@@ -60,38 +61,6 @@ I'm a Software Developer who builds full-stack products end-to-end — from data
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 </p>
 
----
-
-### 🧩 Featured Projects
-
-#### 🗓️ [SmartMeet — AI-Powered Meeting Scheduler](#)
-An AI-driven scheduling platform built with **React.js, Node.js, Express.js, and MongoDB**, integrating **Google Gemini AI** and Gmail SMTP.
-- Real-time scheduling engine with conflict detection to prevent overlapping meetings
-- Scalable REST APIs secured with JWT authentication and input validation
-- AI-powered OCR pipeline to extract, classify, and summarize medical reports
-- Role-based access control for users and meeting permissions
-
-#### 🩺 [Counseling Services — Therapy Practice Web App](#)
-A responsive web application built with **React.js, Vite, and Tailwind CSS**.
-- Modular component architecture with custom React hooks
-- SEO-friendly, accessible UI with reusable design components
-- Secure form validation and data handling
-- Integrated state management for smooth API-driven data flow
-
----
-
-### 📊 DSA & Problem Solving
-- 300+ problems solved across coding platforms
-- Strong command over Arrays, DP, Trees, Graphs, Recursion, and STL
-- Continuously improving speed and accuracy through daily practice
-
----
-
-### 🎓 Education
-**B.Tech, Computer Science & Engineering (AI/ML)** — KCC Institute of Technology and Management, Greater Noida
-`2022 – Present` · CGPA: 7.8
-
----
 
 ### 📈 GitHub Stats
 
@@ -109,7 +78,7 @@ A responsive web application built with **React.js, Vite, and Tailwind CSS**.
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rahul-yadav-613664254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:rahulrao1849@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
